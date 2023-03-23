@@ -1,0 +1,65 @@
+version: 1
+project:
+  title: >-
+    A theoretical model of slow wave regulation using voltage-dependent
+    synthesis of inositol 1, 4, 5-trisphosphate
+  authors:
+    - name: Leyla Noroozbabaee
+      orcid: 0000-0003-0416-1541
+      affiliations:
+        - Auckland Bioengineering Institute, University of Auckland, New Zealand
+      corresponding: true
+      email: l.noroozbabaee@auckland.ac.nz
+    - name: Mohammad Imtiaz
+      orcid: 0000-0002-1981-443X
+      affiliations:
+        - >-
+          Department of Electrical and Computer Engineering, Bradley
+          University,United States
+    - name: Dirk Van Heldenn
+      orcid: 0000-0002-5631-6579
+      affiliations:
+        - >-
+          School of Biomedical Sciences and Pharmacy, University of Newcastle,
+          Australia
+    - name: Peng Du
+      orcid: 0000-0002-6913-7545
+      affiliations:
+        - Auckland Bioengineering Institute, University of Auckland, New Zealand
+    - name: David P. Nickerson
+      orcid: 0000-0003-4667-9779
+      affiliations:
+        - Auckland Bioengineering Institute, University of Auckland, New Zealand
+  keywords:
+    - OpenCOR
+    - Computational model
+    - IP3 oscillations
+    - Slow wave
+    - CellML
+    - Membrane potential
+    - Feedback
+  open_access: true
+  license: CC-BY-4.0
+  subject: ''
+  date: 2023/01/20
+  doi: 10.36903/physiome.21708176
+  numbering:
+    heading_2: true
+    heading_3: true
+site:
+  title: >-
+    A theoretical model of slow wave regulation using voltage-dependent
+    synthesis of inositol 1, 4, 5-trisphosphate
+  projects:
+    - slug: S000021
+      path: .
+  nav: []
+  actions:
+    - title: paper
+      url: Noroozbabaee2023PhysiomeS000021.pdf
+      static: true
+    - title: omex
+      url: Noroozbabaee2023PhysiomeS000021.omex
+      static: true
+    - title: primary
+      url: https://doi.org/10.1016/s0006-3495(02)73952-0
