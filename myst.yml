@@ -4,8 +4,8 @@ project:
     A theoretical model of slow wave regulation using voltage-dependent
     synthesis of inositol 1, 4, 5-trisphosphate
   description: >-
-    The system of equations and figures presented in Imtiaz et al. (2002)
-    are verified and reproduced in the current curation paper.
+    The system of equations and figures presented in Imtiaz et al. (2002) are
+    verified and reproduced in the current curation paper.
   thumbnail: thumbnail.png
   authors:
     - name: Leyla Noroozbabaee
