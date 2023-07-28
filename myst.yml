@@ -74,10 +74,6 @@ site:
   title: >-
     A theoretical model of slow wave regulation using voltage-dependent
     synthesis of inositol 1, 4, 5-trisphosphate
-  projects:
-    - slug: S000021
-      path: .
-  nav: []
   actions:
     - title: paper
       url: Noroozbabaee2023PhysiomeS000021.pdf
@@ -87,3 +83,5 @@ site:
       static: true
     - title: primary
       url: https://doi.org/10.1016/s0006-3495(02)73952-0
+  domains:
+    - physiome-S000021.curve.space
